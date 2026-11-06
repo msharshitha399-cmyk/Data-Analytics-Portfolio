@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio
+# 📊 Data Analytics Portfolio
 
 Welcome to my Data Science Portfolio!
 

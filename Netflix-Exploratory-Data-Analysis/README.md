@@ -71,12 +71,10 @@ The dataset contains information about Netflix titles, including:
 ### 4. Data Visualization
 
 Created visualizations using Matplotlib and Seaborn to represent:
-- Distribution of Movies and TV Shows.
+- Distribution of Movies and TV Show
 - Top 10 countries producing Netflix content.
-- Top 10 genres on Netflix.
 - Distribution of content ratings.
-- Distribution of release years.
-- Netflix content added by year.
+
 
 ## Key Findings
 
